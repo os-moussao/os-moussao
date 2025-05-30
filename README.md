@@ -9,7 +9,7 @@
   <a href="https://mail.google.com/mail/u/omoussaoui1337@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://codeforces.com/profile/os-moussao">
+  <a href="https://codeforces.com/profile/osmann">
    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="CodeForces"/>
   </a>
   <a href="https://leetcode.com/os-moussao/">
